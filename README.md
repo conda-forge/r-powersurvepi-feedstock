@@ -1,11 +1,11 @@
-About r-powersurvepi
-====================
+About r-powersurvepi-feedstock
+==============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-powersurvepi-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=powerSurvEpi
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-powersurvepi-feedstock/blob/main/LICENSE.txt)
 
 Summary: Functions to calculate power and sample size for testing main effect or interaction effect in the survival analysis of epidemiological studies (non-randomized studies), taking into account the correlation between the covariate of the interest and other covariates. Some calculations also take into account the competing risks and stratified analysis. This package also includes a set of functions to calculate power and sample size for testing main effect in the survival analysis of randomized clinical trials and conditional logistic regression for nested case-control study.
 
