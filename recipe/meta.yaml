@@ -1,7 +1,6 @@
 {% set version = '0.1.3' %}
 
 {% set posix = 'm2-' if win else '' %}
-{% set native = 'm2w64-' if win else '' %}
 
 package:
   name: r-powersurvepi
@@ -14,8 +13,7 @@ source:
   sha256: 54c551f21918042f8bd1c23709b8abdf543c17719df90ac711ac678225e12edc
 
 build:
-  merge_build_host: True  # [win]
-  number: 2
+  number: 3
 
   noarch: generic
 
